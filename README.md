@@ -160,7 +160,7 @@ Classical CV	HOG + SVM, Haar Cascades (used here)
 📜 Dataset Credits
 The dataset used in this project is based on the open-source project:
 
-🔗 GitHub: chandrikadeb7/Face-Mask-Detection
+🔗 GitHub: [dataset](https://github.com/chandrikadeb7/Face-Mask-Detection)
 
 Thanks to the author for curating the dataset of masked and unmasked face images.
 
